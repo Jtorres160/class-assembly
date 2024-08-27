@@ -10,3 +10,5 @@ My submission for Computer Science Assembly, Section 01, Week 1
 
 My Thoughts
 I am feeling great today. After learning git i feel better about myself.
+
+So far i feel great on how far i have come in my carrer. Almost done with school.
