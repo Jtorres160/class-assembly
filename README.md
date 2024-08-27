@@ -18,3 +18,7 @@ My favorite movie is proably the first saw movie. It was the start of a wonderfu
 I need to add another comit to get used to it.
 
 Is this the 10th one so far because im not sure how many left are due.
+
+it says i have 4 commits but i have done 5. weird
+
+ok i have done 7 i got 3 more to go
