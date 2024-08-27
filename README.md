@@ -16,3 +16,5 @@ So far i feel great on how far i have come in my carrer. Almost done with school
 My favorite movie is proably the first saw movie. It was the start of a wonderful series.
 
 I need to add another comit to get used to it.
+
+Is this the 10th one so far because im not sure how many left are due.
