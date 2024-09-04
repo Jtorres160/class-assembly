@@ -28,3 +28,5 @@ wait i am almost there.
 i think i did it.
 
 I need to commit one more time to log it
+
+Why is my email not updating
