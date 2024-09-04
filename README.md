@@ -8,7 +8,7 @@ My submission for Computer Science Assembly, Section 01, Week 1
 * CWID: 2449053
 * Email: jtorres160@student.rccd.edu
 
-My Thoughts
+# My Thoughts
 I am feeling great today. After learning git i feel better about myself.
 
 So far i feel great on how far i have come in my carrer. Almost done with school.
