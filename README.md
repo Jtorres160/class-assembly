@@ -1,7 +1,6 @@
 # Homework 1 - Git Practice
 
 My submission for Computer Science Assembly, Section 01, Week 1
-TestingTesting
 
 # My Information
 
